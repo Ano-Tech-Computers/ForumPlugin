@@ -1,0 +1,7 @@
+name: ForumPlugin
+main: com.floyd.bukkit.forum.ForumPlugin
+version: 1.01
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+             This plugin is used for announcing new SMF forum posts.
